@@ -1,0 +1,2 @@
+tidak menggunakan time series karena terlalu tinggi nilai dari last prediction 
+sehingga grafik lainnya terdorong ke sumbu x
